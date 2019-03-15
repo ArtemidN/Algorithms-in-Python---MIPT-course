@@ -1,2 +1,2 @@
 # Algorithms-in-Python---MIPT-course
-Links to the course: http://judge.mipt.ru/mipt_cs_on_python3/
+Link to the video course https://lectoriy.mipt.ru/course/PythonAlgorithms#lectures
